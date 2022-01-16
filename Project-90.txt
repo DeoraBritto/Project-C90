@@ -1,0 +1,3 @@
+  I am going to create a RECIPE APP bacause i like to cook and try new dishes. This is the app for those who wants to get some yummy recipes.
+    1-Recipe screen:here you can see lots of amazing recipes. When we click on the particular recipe, we will get to know the complete ingredients and detailed recipe of the particular dish.
+    2-Dictionary screen: here you can get the meaning of the words or ingredients.
